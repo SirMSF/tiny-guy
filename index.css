@@ -1,0 +1,60 @@
+body{
+	text-align:center;
+	background-color: 242424;
+	
+}
+
+
+#box1{
+	width: 550px;
+	height: 100px auto;
+	background-color: 1d1d1d;
+
+	text-align:;             /* i dunni what is this */
+	line-height: 50px;
+	font-size:20px;
+
+	margin:20px auto;
+	border-radius: 10px;
+
+	color: white;
+	font-family:arial;
+
+	display:grid;
+	place-items: center;
+
+}
+
+.box2{
+	width:550px;
+	height: 100px;
+	background-color: 1d1d1d;
+	
+	line-height:;        /*this gives the gap between lines stpd boy*/
+	font-size:20px;
+	color:white;
+
+	font-family:arial;
+	border-radius:10px;
+	margin: 10px auto;
+
+	display:grid;
+	place-items: center;
+}
+
+.btn{
+	display: inline-block;
+	padding:10px 20px;
+	background-color:1d1d1d;
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	border-radius:10px;
+	cursor:pointer;
+}
+
+.btn:hover{
+	background-color:white;
+	color:black;
+}
+
